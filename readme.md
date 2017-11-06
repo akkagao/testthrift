@@ -1,6 +1,6 @@
 # thrift 安装
 
-##brew install
+## brew install
 
 ```shell
 sudo brew install thrift
